@@ -26,12 +26,12 @@ body {
   display: block;
 }
 
-.project-list{
+.project-list {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
-.project-list >li{
+.project-list > li {
   align-items: center;
 }
